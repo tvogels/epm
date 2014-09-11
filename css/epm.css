@@ -6206,6 +6206,18 @@ button.close {
   height: 65px;
   width: 207px;
 }
+img {
+  max-width: 100%;
+}
+.thumbnail img {
+  width: 100%;
+}
+.management h3 {
+  margin-top: .2em;
+}
+.list-spacious li {
+  margin-bottom: 1em;
+}
 .global-footer {
   background-color: #798b91;
   color: white;
