@@ -30,7 +30,7 @@
             <p>Hat ein Unternehmen substanzielle wirtschaftliche Probleme, muss über einschneidende Maßnahmen nachgedacht werden. Problembehaftete Unternehmensbereiche müssen analysiert und je nach Ergebnis saniert werden. In einer solchen Situation ist die Zeit knapp und es müssen schnellstmöglich Maßnahmen erarbeitet und umgesetzt werden, um das Unternehmen wieder auf Erfolg zu trimmen.</p>
           </div>
           <div class="col-sm-3">
-            <img src="/img/icon-support.png" alt="Support" class="heading-icon">
+            <img src="/img/icon-hr-support.png" alt="Support" class="heading-icon">
             <h2>HR–Support</h2>
             <p>Oft gilt es im Unternehmen, bestimmte Management-Positionen kurzfristig zu besetzen, um laufende Projekte nicht zu gefährden und Optimierungsprozesse konsequent umzusetzen.</p><p>
 Die EPM verfügt über ein Team aus sehr erfahrenen Spezialisten, die für begrenzte Zeiträume Verantwortung übernehmen können, um Personalengpässe zu überbrücken.</p>
