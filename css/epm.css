@@ -6230,7 +6230,9 @@ img {
   width: 100%;
 }
 .management h3 {
-  margin-top: .2em;
+  margin-top: .3em;
+  font-size: 1.2em;
+  text-transform: uppercase;
 }
 .list-spacious li {
   margin-bottom: 1em;
