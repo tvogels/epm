@@ -15,23 +15,31 @@
       <div class="container header-bottom">
         <div class="row">
           <div class="col-sm-3">
-            <img src="/img/icon-monitoring.png" alt="Monitoring" class="heading-icon">
-            <h2>Monitoring</h2>
+            <a href="/leistung_monitoring.php" class="teaser-link">
+              <img src="/img/icon-monitoring.png" alt="Monitoring" class="heading-icon">
+              <h2>Monitoring</h2>
+            </a>
             <p>Der Erfolg eines Unternehmens hängt nicht unwesentlich von einer durch-dachten Strategie und einer akkuraten Un-ternehmensplanung ab. Von der Pro-duktkalkulation bis zur Finanzierungsstrategie müssen viele Themen aufbereitet werden, um optimal auf Margendruck und Wettbewerb vorbereitet zu sein. Wir helfen Ihnen gerne. </p>
           </div>
           <div class="col-sm-3">
-            <img src="/img/icon-optimization.png" alt="Optimization" class="heading-icon">
-            <h2>Optimization</h2>
+            <a href="/leistung_optimization.php" class="teaser-link">
+              <img src="/img/icon-optimization.png" alt="Optimization" class="heading-icon">
+              <h2>Optimization</h2>
+            </a>
             <p>Wettbewerbsfähigkeit ist die wichtigste Basis, um langfristig erfolgreich am Markt agieren zu können. Prozesse, Kosten und Produktivität müssen daher ständig optimiert werden. Sind bestimmte Unternehmensbereiche nicht mehr konkurrenzfähig, kann eine Restrukturierung den Weg zurück in die Gewinnzone ebnen.</p>
           </div>
           <div class="col-sm-3">
-            <img src="/img/icon-turn-around.png" alt="Turn Around" class="heading-icon">
-            <h2>Turn Around</h2>
+            <a href="/leistung_turn-around.php" class="teaser-link">
+              <img src="/img/icon-turn-around.png" alt="Turn Around" class="heading-icon">
+              <h2>Turn Around</h2>
+            </a>
             <p>Hat ein Unternehmen substanzielle wirtschaftliche Probleme, muss über einschneidende Maßnahmen nachgedacht werden. Problembehaftete Unternehmensbereiche müssen analysiert und je nach Ergebnis saniert werden. In einer solchen Situation ist die Zeit knapp und es müssen schnellstmöglich Maßnahmen erarbeitet und umgesetzt werden, um das Unternehmen wieder auf Erfolg zu trimmen.</p>
           </div>
           <div class="col-sm-3">
-            <img src="/img/icon-hr-support.png" alt="Support" class="heading-icon">
-            <h2>HR–Support</h2>
+            <a href="/leistung_hr-support.php" class="teaser-link">
+              <img src="/img/icon-hr-support.png" alt="Support" class="heading-icon">
+              <h2>HR–Support</h2>
+            </a>
             <p>Oft gilt es im Unternehmen, bestimmte Management-Positionen kurzfristig zu besetzen, um laufende Projekte nicht zu gefährden und Optimierungsprozesse konsequent umzusetzen.</p><p>
 Die EPM verfügt über ein Team aus sehr erfahrenen Spezialisten, die für begrenzte Zeiträume Verantwortung übernehmen können, um Personalengpässe zu überbrücken.</p>
           </div>

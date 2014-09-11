@@ -1,6 +1,6 @@
 <?php require_once('bootstrap.php'); require_once('leistung.php'); ?>
 <?php epm_leistung_header('optimization') ?>
-        <p class="lead">
+        <p class="lead" style="margin-bottom:1.2em;">
           Maßnahmen zur Unternehmensoptimierung bzw. Restrukturierung greifen in viele Unternehmensbereiche ein, wobei ein wesentliches Ziel die Kostenoptimierung sein muss:
         </p>
         <dl class="epm-dl">

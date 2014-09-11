@@ -1,6 +1,6 @@
 <?php require_once('bootstrap.php'); require_once('leistung.php'); ?>
 <?php epm_leistung_header('monitoring') ?>
-        <p class="lead">
+        <p class="lead" style="margin-bottom:1.2em;">
           Der Erfolg eines Unternehmens hängt nicht unwesentlich von einer durchdachten Strategie und einer akkuraten Unternehmensplanung ab. Von der Produktkal- kulation bis zur Finanzierungsstrategie müssen viele Themen aufbereitet werden, um optimal auf Margendruck und Wettbewerb vorbereitet zu sein. Wir helfen Ihnen gerne. Die EPM unterstützt bei:
         </p>
         <dl class="epm-dl">

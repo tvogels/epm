@@ -31,15 +31,16 @@ function epm_leistung_header($type) {
   foreach ($tabs as $tab) {
     $active = ($tab == $type) ? 'active' : '';
     $gray = ($tab == $type) ? '' : '-gray';
-    echo '<div class="col-sm-3 col-xs-6">';
+    echo '<div class="col-sm-3 col-xs-6 leistung-toggle '.$active.'">';
     echo '  <a href="/leistung_'.$tab.'.php" class="toggle ' . $active . '">';
     echo '    <img class="toggle-image" src="/img/icon-'.$tab.$gray.'.png" alt="' . ucfirst($tab) . '">';
-    echo ucfirst($tab);
+    echo '    <p>'.ucfirst($tab).'</p>';
     echo '  </a>';
     echo '</div>';
   }
 ?>
         </div>
+        <div class="shadow-hr"></div>
 <?php
 }
 

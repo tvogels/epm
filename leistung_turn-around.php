@@ -1,6 +1,6 @@
 <?php require_once('bootstrap.php'); require_once('leistung.php'); ?>
 <?php epm_leistung_header('turn-around') ?>
-        <p class="lead">
+        <p class="lead" style="margin-bottom:1.2em;">
           Befindet sich ein Unternehmen in der Krise, hilft nur ein stringentes Turn-Around-Management:
         </p>
         <dl class="epm-dl">
