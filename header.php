@@ -32,7 +32,7 @@ function epm_header($params) {
   <body>
     <header class="global-header">
       <div class="container header-top">
-        <a href="/"><h1 class="epm-logo">EPM: Getting it done</h1></a>
+        <h1 class="epm-logo" onclick="document.location.href='/'" style="cursor:pointer;">EPM: Getting it done</h1>
         <a href="#" id="menu-toggle">
           <span class="glyphicon glyphicon-align-justify"></span>
           <span class="glyphicon glyphicon-remove"></span>
