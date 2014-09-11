@@ -6381,12 +6381,6 @@ h2 {
 #menu-toggle.open {
   color: #626262;
 }
-#menu-toggle.open .glyphicon-remove {
-  display: block;
-}
-#menu-toggle.open .glyphicon-align-justify {
-  display: none;
-}
 @media (min-width: 992px) {
   #menu-toggle {
     display: none;
