@@ -3,7 +3,7 @@
   'active' => 'jobs',
   'page-title' => 'Jobs'
 )); ?>
-      <div class="global-banner banner-small" style="background-image:url(img/car-bg.jpg);">
+      <div class="global-banner banner-small" style="background-image:url(img/bg/jobs.jpg);">
         <div class="container banner-container">
           <div class="row">
             <div class="col-sm-6 col-sm-offset-6 banner-content">
