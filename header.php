@@ -39,11 +39,11 @@ function epm_header($params) {
         </a>
         <ul class="global-nav">
           <li><a href="/" class="<?php echo page_active('home', $params['active']) ?>">Home</a></li>
-          <li><a href="#" class="<?php echo page_active('unternehmen', $params['active']) ?>">Unternehmen</a></li>
+          <li><a href="/unternehmen.php" class="<?php echo page_active('unternehmen', $params['active']) ?>">Unternehmen</a></li>
           <li><a href="/leistung.php" class="<?php echo page_active('leistung', $params['active']) ?>">Leistung</a></li>
-          <li><a href="#" class="<?php echo page_active('leadership', $params['active']) ?>">Leadership</a></li>
-          <li><a href="#" class="<?php echo page_active('jobs', $params['active']) ?>">Jobs</a></li>
-          <li><a href="#" class="<?php echo page_active('kontakt', $params['active']) ?>">Kontakt</a></li>
+          <li><a href="/leadership.php" class="<?php echo page_active('leadership', $params['active']) ?>">Leadership</a></li>
+          <li><a href="/jobs.php" class="<?php echo page_active('jobs', $params['active']) ?>">Jobs</a></li>
+          <li><a href="/kontakt.php" class="<?php echo page_active('kontakt', $params['active']) ?>">Kontakt</a></li>
         </ul>
       </div>
 <?php

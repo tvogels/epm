@@ -6283,6 +6283,8 @@ button.close {
     height: 200px;
   }
   .global-banner .banner-content {
+    font-size: 2em;
+    font-weight: bold;
     margin-top: 60px;
   }
 }
