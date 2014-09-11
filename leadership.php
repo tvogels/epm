@@ -29,7 +29,7 @@
           <div class="col-md-3 col-xs-10">
             <h3>Bernhard Ranftl</h3>
             <ul class="list-unstyled list-spacious">
-              <li><span style="color:#888;">Geb.</span> 24.8.1962</li>
+              <li><span style="color:rgb(121,139,145);">Geb.</span> 24.8.1962</li>
               <li>Gründer der EPM. Ausbildung zum Modellbau-Meister mit Fachrichtung Automotive, aufbauend darauf BWL-Studium. </li>
               <li>Seit 30 Jahren in der Automobilindustrie tätig. Zunächst Geschäftsführer mittelständischer Fertigungsbetriebe, später dann mit der EPM eine Consulting Gesellschaft für Restrukturierungs- und Turnaround-Management Projekte aufgebaut. </li>
             </ul>
@@ -42,7 +42,7 @@
           <div class="col-md-3 col-xs-10">
             <h3>Dietmar Wolf</h3>
             <ul class="list-unstyled list-spacious">
-              <li><span style="color:#888;">Geb.</span>  21.5.1957</li>
+              <li><span style="color:rgb(121,139,145);">Geb.</span>  21.5.1957</li>
               <li>Nach seiner Ausbildung zum Elektronik-Ingenieur war Herr Wolf in großen börsennotierten Unternehmen der Automobilindustrie  in leitenden Positionen für die Bereiche Einkauf und Logistik verantwortlich. Seit 2004 ist Herr Wolf Senior Partner der E-P-M GmbH.</li>
             </ul>
           </div>
@@ -54,7 +54,7 @@
           <div class="col-md-3 col-xs-10">
             <h3>Roy von der Locht</h3>
             <ul class="list-unstyled list-spacious">
-              <li><span style="color:#888;">Geb.</span> 7.3.1964</li>
+              <li><span style="color:rgb(121,139,145);">Geb.</span> 7.3.1964</li>
               <li>Prädikatsexamen Informatik an der TU München. Danach Aufbau und Leitung mehrerer Unternehmen, unter anderem als CEO zweier börsennotierter AGs. Seit 2012 als Senior Partner in der E-P-M GmbH.</li>
             </ul>
           </div>
@@ -70,7 +70,7 @@
           <div class="col-md-3 col-xs-10">
             <h3>Bernhard Ranftl</h3>
             <ul class="list-unstyled list-spacious">
-              <li><span style="color:#888;">Geb.</span> 24.8.1962</li>
+              <li><span style="color:rgb(121,139,145);">Geb.</span> 24.8.1962</li>
               <li>Seit 30 Jahren in der Automobilindustrie tätig. Zunächst Geschäftsführer mittelständischer Fertigungsbetriebe, später dann mit der EPM eine Consulting Gesellschaft für Restrukturierungs- und Turnaround-Management Projekte aufgebaut. </li>
             </ul>
           </div>
@@ -82,7 +82,7 @@
           <div class="col-md-3 col-xs-10">
             <h3>Dietmar Wolf</h3>
             <ul class="list-unstyled list-spacious">
-              <li><span style="color:#888;">Geb.</span>  21.5.1957</li>
+              <li><span style="color:rgb(121,139,145);">Geb.</span>  21.5.1957</li>
               <li>Nach seiner Ausbildung zum Elektronik-Ingenieur war Herr Wolf in großen börsennotierten Unternehmen der Automobilindustrie  in leitenden Positionen für die Bereiche Einkauf und Logistik verantwortlich. Seit 2004 ist Herr Wolf Senior Partner der E-P-M GmbH.</li>
             </ul>
           </div>
@@ -94,7 +94,7 @@
           <div class="col-md-3 col-xs-10">
             <h3>Roy von der Locht</h3>
             <ul class="list-unstyled list-spacious">
-              <li><span style="color:#888;">Geb.</span> 7.3.1964</li>
+              <li><span style="color:rgb(121,139,145);">Geb.</span> 7.3.1964</li>
               <li>Prädikatsexamen Informatik an der TU München. Danach Aufbau und Leitung mehrerer Unternehmen, unter anderem als CEO zweier börsennotierter AGs. Seit 2012 als Senior Partner in der E-P-M GmbH.</li>
             </ul>
           </div>

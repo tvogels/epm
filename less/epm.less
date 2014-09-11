@@ -51,6 +51,19 @@
 @import "../bower_components/bootstrap/less/responsive-utilities.less";
 
 
+.reset-box-sizing {
+  &,
+  *,
+  *:before,
+  *:after {
+    .box-sizing(content-box);
+  }
+}
+
+.google-map {
+  .reset-box-sizing();
+}
+
 * {
   -webkit-font-smoothing: antialiased;
 }
@@ -114,6 +127,11 @@ img {
   }
 }
 
+td.light {
+  color: rgb(121,139,145);
+  padding-right:1em;
+}
+
 .global-footer {
   background-color: rgb(121,139,145);
   color: white;
@@ -155,6 +173,10 @@ img {
   &.active {
     color: @epm-blue;
   }
+}
+
+h4 {
+  color: rgb(121,139,145);
 }
 
 .epm-dl {

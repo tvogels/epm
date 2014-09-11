@@ -6163,6 +6163,22 @@ button.close {
     display: none !important;
   }
 }
+.reset-box-sizing,
+.reset-box-sizing *,
+.reset-box-sizing *:before,
+.reset-box-sizing *:after {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+.google-map,
+.google-map *,
+.google-map *:before,
+.google-map *:after {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
 * {
   -webkit-font-smoothing: antialiased;
 }
@@ -6218,6 +6234,10 @@ img {
 .list-spacious li {
   margin-bottom: 1em;
 }
+td.light {
+  color: #798b91;
+  padding-right: 1em;
+}
 .global-footer {
   background-color: #798b91;
   color: white;
@@ -6256,6 +6276,9 @@ img {
 }
 .toggle.active {
   color: #2e2867;
+}
+h4 {
+  color: #798b91;
 }
 .epm-dl ul {
   margin: 0;
