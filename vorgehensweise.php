@@ -23,7 +23,9 @@
         <div class="row">
           <div class="col-sm-8">
             <p>Ein Projekt ist erst dann erfolgreich abgeschlossen, wenn die notwendigen Maßnahmen erfolgreich umgesetzt wurden. Daher bietet die EPM nicht nur Analyse und Lösungskonzepte, sondern auch eine aktive Rolle in der Umsetzung an.</p>
-
+            <p>
+              <img src="/img/vorgehensweise.png" alt="Vorgehensweise">
+            </p>
             <p>Lösungsansätze müssen praxistauglich sein. Durch die aktive Mitarbeit in der Umsetzungsphase können Konzepte iterativ verfeinert werden, um die individuellen Anforderungen im Kunden-Tagesgeschäft optimal zu integrieren.</p>
           </div>
         </div>

@@ -45,7 +45,7 @@ Die EPM verfügt über ein Team aus sehr erfahrenen Spezialisten, die für begre
           <div class="col-sm-6">
             <img class="illustration" src="/img/table-1.jpg" alt="Illustration">
             <h2>EPM is looking for ambitious people to join their team.</h2>
-            <p>Proin ut urna. Donec ultricies nunc dapibus justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent vulputate, lectus pulvinar nonummy eleifend, sapien urna posuere metus, vel auctor risus odio eu augue. Cras vitae dolor. Phasellus dolor. Etiam enim. Donec erat felis, tincidunt quis, luctus in, faucibus at, est. <a href="#">Read on &hellip;</a></p>
+            <p>Proin ut urna. Donec ultricies nunc dapibus justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent vulputate, lectus pulvinar nonummy eleifend, sapien urna posuere metus, vel auctor risus odio eu augue. Cras vitae dolor. Phasellus dolor. Etiam enim. Donec erat felis, tincidunt quis, luctus in, faucibus at, est. <a href="/jobs.php">Read on &hellip;</a></p>
           </div>
           <div class="col-sm-6">
             <img class="illustration" src="/img/table-2.jpg" alt="Illustration">
