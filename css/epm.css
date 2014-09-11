@@ -6281,6 +6281,13 @@ img {
   padding-top: 1em;
   padding-bottom: 1em;
 }
+@media (max-width: 767px) {
+  .epm-dl dt {
+    border-right: 15px solid #fefefe;
+    margin-bottom: 0;
+    padding-bottom: .3em;
+  }
+}
 .epm-dl dt strong {
   font-size: 18px;
   line-height: 40px;

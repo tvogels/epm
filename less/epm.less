@@ -176,7 +176,11 @@ img {
     background-color: @epm-blue;
     color: rgb(254,254,254);
     border-left: 15px solid rgb(254,254,254);
-
+    @media (max-width: @screen-xs-max) {
+      border-right: 15px solid rgb(254,254,254);
+      margin-bottom:0;
+      padding-bottom:.3em;
+    }
     margin-bottom:1em;
     font-weight:normal;
     padding-top: 1em;
