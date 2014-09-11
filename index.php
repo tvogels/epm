@@ -1,31 +1,7 @@
-<!DOCTYPE html>
-<html lang="de" ng-app="epmApp">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-    <title>EPM: Getting It Done</title>
-    <link rel="stylesheet" href="/css/epm.css">
-    <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,500,700' rel='stylesheet' type='text/css'>
-  </head>
-  <body>
-    <header class="global-header">
-      <div class="container header-top">
-        <h1 class="epm-logo">EPM: Getting it done</h1>
-        <ul class="list-inline global-nav">
-          <li><a href="/" class="active">Home</a></li>
-          <li><a href="#">Unternehmen</a></li>
-          <li><a href="/services.html">Leistung</a></li>
-          <li><a href="#">Leadership</a></li>
-          <li><a href="#">Jobs</a></li>
-          <li><a href="#">Kontakt</a></li>
-        </ul>
-      </div>
+<?php require_once('bootstrap.php'); ?>
+<?php epm_header(array(
+  'active' => 'home'
+)); ?>
       <div class="global-banner" style="background-image:url(img/car-bg.jpg);">
         <div class="container banner-container">
           <div class="row">
@@ -39,7 +15,7 @@
       <div class="container header-bottom">
         <div class="row">
           <div class="col-sm-3">
-            <img src="/img/icon-strategy.png" alt="Monitoring" class="heading-icon">
+            <img src="/img/icon-monitoring.png" alt="Monitoring" class="heading-icon">
             <h2>Monitoring</h2>
             <p>Der Erfolg eines Unternehmens hängt nicht unwesentlich von einer durch-dachten Strategie und einer akkuraten Un-ternehmensplanung ab. Von der Pro-duktkalkulation bis zur Finanzierungsstrategie müssen viele Themen aufbereitet werden, um optimal auf Margendruck und Wettbewerb vorbereitet zu sein. Wir helfen Ihnen gerne. </p>
           </div>
@@ -79,27 +55,4 @@ Die EPM verfügt über ein Team aus sehr erfahrenen Spezialisten, die für begre
         </div>
       </div>
     </div>
-
-    <footer class="global-footer">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-3">
-            <strong>E-P-M GmbH</strong><br>
-            Beim Pfarracker 3a<br>
-            D-85716 Unterschleißheim
-          </div>
-          <div class="col-sm-3">
-            Geschäftsführer:  Bernhard Ranftl<br>
-            Tel.: +49 (0)89 8890 0059<br>
-            Email:  info@ep-m.de
-          </div>
-          <div class="col-sm-3">
-            Amtsger. München HRB 171236<br>
-            Steuernummer: 143/134/00639<br>
-            Ust.-Id.: DE 257515537
-          </div>
-        </div>
-      </div>
-    </footer>
-  </body>
-</html>
+<?php epm_footer(); ?>
