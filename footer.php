@@ -23,6 +23,21 @@ function epm_footer() {
         </div>
       </div>
     </footer>
+    <script src="/bower_components/jquery/dist/jquery.min.js"></script>
+    <script>
+    $(document).ready(function () {
+      $('#menu-toggle').click(function (e) {
+        e.preventDefault();
+        if($(this).hasClass('open')) {
+          $(this).removeClass('open');
+          $('.global-nav').removeClass('open');
+        } else {
+          $(this).addClass('open');
+          $('.global-nav').addClass('open');
+        }
+      });
+    });
+    </script>
   </body>
 </html>
 <?php

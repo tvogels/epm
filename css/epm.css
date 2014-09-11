@@ -251,8 +251,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url('../fonts/glyphicons-halflings-regular.eot');
-  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot');
+  src: url('/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff') format('woff'), url('/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
@@ -6278,6 +6278,14 @@ button.close {
   height: 400px;
   color: #fefefe;
 }
+@media (max-width: 991px) {
+  .global-banner {
+    height: 200px;
+  }
+  .global-banner .banner-content {
+    margin-top: 60px;
+  }
+}
 .banner-small {
   height: 200px;
 }
@@ -6298,30 +6306,94 @@ button.close {
 .illustration {
   width: 100%;
 }
-.global-nav {
-  position: absolute;
-  right: 0;
-  font-size: 1.2em;
-  bottom: 5px;
-}
-.global-nav li {
-  padding-left: 2em;
-  padding-right: 0;
-}
-.global-nav a {
-  text-transform: uppercase;
-  font-weight: bold;
-  color: #2e2867;
-  transition: 0.3s border-color ease, color 0.3s ease;
-  border-bottom: 7px solid #e2e4e7;
-  padding-bottom: 10px;
-}
-.global-nav a:hover,
-.global-nav a.active {
+#menu-toggle {
+  font-size: 2.4em;
   text-decoration: none;
-  color: #888;
-  border-bottom: 7px solid #ccc;
+  border: none;
+  position: absolute;
+  right: 15px;
+  top: 30px;
 }
-.global-nav a.active {
-  border-bottom: 7px solid #bbb;
+#menu-toggle .glyphicon-remove {
+  display: none;
+}
+#menu-toggle.open {
+  color: #626262;
+}
+#menu-toggle.open .glyphicon-remove {
+  display: block;
+}
+#menu-toggle.open .glyphicon-align-justify {
+  display: none;
+}
+@media (min-width: 992px) {
+  #menu-toggle {
+    display: none;
+  }
+}
+.global-nav {
+  font-size: 1.2em;
+}
+@media (max-width: 991px) {
+  .global-nav {
+    padding-left: 0;
+    list-style: none;
+    display: none;
+    margin-top: 1em;
+  }
+  .global-nav.open {
+    display: block;
+  }
+  .global-nav a {
+    display: block;
+    background-color: #ddd;
+    padding: .2em .3em;
+    border-bottom: 1px solid #bbb;
+  }
+  .global-nav a:hover {
+    text-decoration: none;
+    background-color: #eee;
+  }
+  .global-nav a:active {
+    background-color: #ccc;
+  }
+  .global-nav li:first-child a {
+    border-top: 1px solid #bbb;
+  }
+}
+@media (min-width: 992px) {
+  .global-nav {
+    padding-left: 0;
+    list-style: none;
+    margin-left: -5px;
+    position: absolute;
+    right: 0;
+    bottom: 5px;
+  }
+  .global-nav > li {
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .global-nav li {
+    padding-left: 2em;
+    padding-right: 0;
+  }
+  .global-nav a {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #2e2867;
+    transition: 0.3s border-color ease, color 0.3s ease;
+    border-bottom: 7px solid #e2e4e7;
+    padding-bottom: 10px;
+  }
+  .global-nav a:hover,
+  .global-nav a.active {
+    text-decoration: none;
+    color: #888;
+    border-bottom: 7px solid #ccc;
+  }
+  .global-nav a.active {
+    border-bottom: 7px solid #bbb;
+  }
 }

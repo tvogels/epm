@@ -33,7 +33,11 @@ function epm_header($params) {
     <header class="global-header">
       <div class="container header-top">
         <a href="/"><h1 class="epm-logo">EPM: Getting it done</h1></a>
-        <ul class="list-inline global-nav">
+        <a href="#" id="menu-toggle">
+          <span class="glyphicon glyphicon-align-justify"></span>
+          <span class="glyphicon glyphicon-remove"></span>
+        </a>
+        <ul class="global-nav">
           <li><a href="/" class="<?php echo page_active('home', $params['active']) ?>">Home</a></li>
           <li><a href="#" class="<?php echo page_active('unternehmen', $params['active']) ?>">Unternehmen</a></li>
           <li><a href="/leistung.php" class="<?php echo page_active('leistung', $params['active']) ?>">Leistung</a></li>
