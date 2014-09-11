@@ -6307,13 +6307,17 @@ button.close {
 .global-nav a {
   text-transform: uppercase;
   font-weight: bold;
+  color: #2e2867;
+  transition: 0.3s border-color ease, color 0.3s ease;
+  border-bottom: 7px solid #e2e4e7;
+  padding-bottom: 10px;
 }
 .global-nav a:hover,
 .global-nav a.active {
   text-decoration: none;
   color: #888;
+  border-bottom: 7px solid #ccc;
 }
 .global-nav a.active {
   border-bottom: 7px solid #bbb;
-  padding-bottom: 10px;
 }

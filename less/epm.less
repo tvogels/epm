@@ -205,13 +205,17 @@
   a {
     text-transform: uppercase;
     font-weight: bold;
+    color: @epm-blue;
+    transition: .3s border-color ease, color .3s ease;
+    border-bottom: 7px solid rgb(226, 228, 231);
+    padding-bottom:10px;
     &:hover, &.active {
       text-decoration: none;
       color: #888;
+      border-bottom: 7px solid #ccc;
     }
     &.active {
       border-bottom: 7px solid #bbb;
-      padding-bottom:10px;
     }
   }
 }
