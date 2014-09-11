@@ -7,8 +7,6 @@
         <div class="container banner-container">
           <div class="row">
             <div class="col-sm-6 col-sm-offset-6 banner-content">
-              <p>What can we do for</p>
-              <p>your business?</p>
             </div>
           </div>
         </div>
