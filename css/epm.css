@@ -6179,6 +6179,17 @@ button.close {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
 }
+h1,
+h2,
+h3,
+.global-nav a,
+.lead,
+.toggle {
+  font-family: "Jura";
+}
+.lead {
+  color: #798b91;
+}
 * {
   -webkit-font-smoothing: antialiased;
 }
