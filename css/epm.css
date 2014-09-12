@@ -6186,6 +6186,9 @@ h3,
 .toggle {
   font-family: "Jura";
 }
+h1 {
+  text-transform: uppercase;
+}
 .lead {
   color: #798b91;
 }
