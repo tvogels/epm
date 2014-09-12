@@ -65,12 +65,9 @@
 }
 
 h1, h2, h3, .global-nav a, .toggle {
-  font-family: "Jura";
+  font-family: "Michroma";
 }
 
-h1 {
-  text-transform: uppercase;
-}
 
 .lead {
   color: rgb(121,139,145);
@@ -100,7 +97,7 @@ h1 {
   h2 {
     text-align: center;
     font-weight: 500;
-    font-size:1.2em;
+    font-size:1.1em;
     text-transform: uppercase;
     margin-top:0;
     margin-bottom:1em;
@@ -132,7 +129,7 @@ img {
 .management {
   h3 {
     margin-top:.3em;
-    font-size: 1.2em;
+    font-size: 1.1em;
     text-transform:uppercase;
   }
 }
@@ -173,7 +170,7 @@ td.light {
 
 .toggle {
   font-weight: 500;
-  font-size:1.2em;
+  font-size:1.1em;
   img {
     margin-right:.3em;
     vertical-align:baseline;
@@ -268,12 +265,13 @@ h4 {
 }
 
 h1 {
+  margin-top:1.3em;
   font-size:1.9em;
   font-weight:500;
 }
 
 h2 {
-  font-size:1.2em;
+  font-size:1.1em;
   text-transform:uppercase;
 }
 
@@ -333,7 +331,7 @@ h2 {
     right:0;
     bottom:5px;
     li {
-      padding-left:2em;
+      padding-left:1em;
       padding-right:0;
     }
     a {
@@ -353,7 +351,12 @@ h2 {
       }
     }
   }
-  font-size:1.2em;
+  @media (min-width: @screen-lg-min) {
+    li {
+      padding-left:2em;
+    }
+  }
+  font-size:1.1em;
 }
 
 .teaser-link {

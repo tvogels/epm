@@ -26,7 +26,7 @@ function epm_header($params) {
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <title><?php echo page_title($params) ?></title>
-    <link rel="stylesheet" href="/css/epm.css"><link href='http://fonts.googleapis.com/css?family=Jura:600|Roboto:400,300,500' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="/css/epm.css"><link href='http://fonts.googleapis.com/css?family=Michroma:400|Roboto:400,300,500' rel='stylesheet' type='text/css'>
   </head>
   <body>
     <header class="global-header">
