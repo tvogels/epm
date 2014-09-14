@@ -1,7 +1,7 @@
 <?php require_once('bootstrap.php'); require_once('leistung.php'); ?>
 <?php epm_leistung_header('turn-around') ?>
         <p class="lead" style="margin-bottom:1.2em;">
-          Befindet sich ein Unternehmen in der Krise, hilft nur ein stringentes Turn-Around-Management:
+          Befindet sich ein Unternehmen erst einmal in der Krise, hilft nur ein stringentes Turn-Around-Management. Es müssen schnell signifikante Verbesserungen in allen Unternehmensbereichen erzielt werden:
         </p>
         <dl class="epm-dl">
           <div class="row">
@@ -31,14 +31,13 @@
           </div>
           <div class="row">
             <dt class="col-sm-4">
-              <strong>Umsetzungsunterstützung</strong><br>&nbsp;
+              <strong>Stringente Umsetzung</strong><br>&nbsp;
             </dt>
             <dd class="col-sm-8">
               <ul class="dd-content">
-                <li>Verhandlungen mit Banken und Investoren </li>
-                <li>Monitoring angesetzter Maßnahmen</li>
-                <li>Bereitstellung evtl. benötigter Ressourcen</li>
-                <li>Begleitung durch erfahrene Juristen</li>
+                <li>Umsetzung und Monitoring beschlossener Maßnahmen</li>
+                <li>Einbindung erfahrener Juristen und Wirtschaftsprüfer</li>
+                <li>Verhandlung mit Banken und Investoren</li>
               </ul>
             </dd>
           </div>

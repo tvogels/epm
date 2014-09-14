@@ -1,7 +1,7 @@
 <?php require_once('bootstrap.php'); require_once('leistung.php'); ?>
 <?php epm_leistung_header('hr-support') ?>
         <p class="lead" style="margin-bottom:1.2em;">
-          Gemäß dem Unternehmensmotto „Getting it done“ sind Konzepte nur so gut wie deren Realisierung. Bei Bedarf stehen Spezialisten der EPM GmbH in den nachstehend aufgeführten Ebenen auch für die erfolgreiche Umsetzung der geplanten Maßnahmen zur Verfügung. 
+          Gemäß dem Unternehmensmotto „Getting it done“ sind Konzepte nur so gut wie deren Realisierung. Oft fehlt es den betroffenen Unternehmen aber an ausreichend Ressourcen, um dringend notwendige Maßnahmen umzusetzen. Hier können Spezialisten der EPM GmbH für Interimszeiträume operative Aufgaben beim Kunden übernehmen.
         </p>
         <dl class="epm-dl">
           <div class="row">

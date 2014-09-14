@@ -19,29 +19,28 @@
               <img src="/img/icon-monitoring.png" alt="Monitoring" class="heading-icon">
               <h2>Monitoring</h2>
             </a>
-            <p>Der Erfolg eines Unternehmens hängt nicht unwesentlich von einer durch-dachten Strategie und einer akkuraten Un-ternehmensplanung ab. Von der Pro-duktkalkulation bis zur Finanzierungsstrategie müssen viele Themen aufbereitet werden, um optimal auf Margendruck und Wettbewerb vorbereitet zu sein. Wir helfen Ihnen gerne. </p>
+            <p>Verlässliche Aussagen über die wichtigsten Kennzahlen eines Unternehmens sind die unabdingbare Grundlage für jede Form von Optimierung.</p>
           </div>
           <div class="col-sm-3">
             <a href="/leistung_optimization.php" class="teaser-link">
               <img src="/img/icon-optimization.png" alt="Optimization" class="heading-icon">
               <h2>Optimization</h2>
             </a>
-            <p>Wettbewerbsfähigkeit ist die wichtigste Basis, um langfristig erfolgreich am Markt agieren zu können. Prozesse, Kosten und Produktivität müssen daher ständig optimiert werden. Sind bestimmte Unternehmensbereiche nicht mehr konkurrenzfähig, kann eine Restrukturierung den Weg zurück in die Gewinnzone ebnen.</p>
+            <p>Optimierung ist kein Luxus sondern Notwendigkeit. Nur wer sich kontinuierlich verbessert bleibt wettbewerbsfähig.</p>
           </div>
           <div class="col-sm-3">
             <a href="/leistung_turn-around.php" class="teaser-link">
               <img src="/img/icon-turn-around.png" alt="Turn Around" class="heading-icon">
               <h2>Turn Around</h2>
             </a>
-            <p>Hat ein Unternehmen substanzielle wirtschaftliche Probleme, muss über einschneidende Maßnahmen nachgedacht werden. Problembehaftete Unternehmensbereiche müssen analysiert und je nach Ergebnis saniert werden. In einer solchen Situation ist die Zeit knapp und es müssen schnellstmöglich Maßnahmen erarbeitet und umgesetzt werden, um das Unternehmen wieder auf Erfolg zu trimmen.</p>
+            <p>Befindet sich ein Unternehmen in der Krise, ist ein stringentes Turn-Around-Management erforderlich.</p>
           </div>
           <div class="col-sm-3">
             <a href="/leistung_hr-support.php" class="teaser-link">
               <img src="/img/icon-hr-support.png" alt="Support" class="heading-icon">
               <h2>HR–Support</h2>
             </a>
-            <p>Oft gilt es im Unternehmen, bestimmte Management-Positionen kurzfristig zu besetzen, um laufende Projekte nicht zu gefährden und Optimierungsprozesse konsequent umzusetzen.</p><p>
-Die EPM verfügt über ein Team aus sehr erfahrenen Spezialisten, die für begrenzte Zeiträume Verantwortung übernehmen können, um Personalengpässe zu überbrücken.</p>
+            <p>Fehlen Ihnen die Profis, um geplante Maßnahmen erfolgreich umzusetzen, stehen Ihnen erfahrene Manager der EPM übergangsweise zur Verfügung.</p>
           </div>
         </div>
       </div>
@@ -52,13 +51,13 @@ Die EPM verfügt über ein Team aus sehr erfahrenen Spezialisten, die für begre
         <div class="row">
           <div class="col-sm-6">
             <img class="illustration" src="/img/table-1.jpg" alt="Illustration">
-            <h2>EPM is looking for ambitious people to join their team.</h2>
-            <p>Proin ut urna. Donec ultricies nunc dapibus justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent vulputate, lectus pulvinar nonummy eleifend, sapien urna posuere metus, vel auctor risus odio eu augue. Cras vitae dolor. Phasellus dolor. Etiam enim. Donec erat felis, tincidunt quis, luctus in, faucibus at, est. <a href="/jobs.php">Read on &hellip;</a></p>
+            <h2>Wir suchen nach engagierten Beratern, die unser Team verstärken wollen</h2>
+            <p>In den Bereichen Performance-Monitoring, Produktionsoptimierung und Logistik sowie Projektmanagement suchen wir zusätzliche Berater. Besuchen Sie unsere Job-Seite, vielleicht passt ja eins der Profile genau zu Ihnen. <a href="/jobs.php">Mehr &hellip;</a></p>
           </div>
           <div class="col-sm-6">
             <img class="illustration" src="/img/table-2.jpg" alt="Illustration">
-            <h2>Super-charge your company with our cool service.</h2>
-            <p>Phasellus dictum blandit tortor. Vivamus a lectus. Ut ligula nibh, sodales pellentesque, lacinia sed, luctus at, ipsum. Curabitur ornare. Sed magna erat, sagittis eget, volutpat sit amet, sodales nec, quam. In lobortis porttitor odio. Donec nunc. Donec tristique ornare eros. Mauris id urna et augue facilisis dictum. <a href="#">Read on &hellip;</a></p>
+            <h2>EPM erweitert Angebot</h2>
+            <p>Neben der bisherigen Beratung im Bereich Lean-Management und Leant-Production bietet die EPM jetzt auch eine hoch flexible Software für das Performance-Monitoring an, welches gemeinsam mit Partnern entwickelt wurde. Die Messung der Key Performance Indicators (KPIs) und deren Auswertung sind entscheidend für die Identifizierung von Optimierungspotential. <a href="/leistung_monitoring.php">Mehr &hellip;</a></p>
           </div>
         </div>
       </div>

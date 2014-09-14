@@ -20,7 +20,7 @@
         <div class="row">
           <div class="col-sm-4">
             <h1>Kontakt</h1>
-            <div class="lead">Lorem ipsum dolor sit amet, consequer blabla tralala.</div>
+            <div class="lead">Wir freuen uns auf Ihre Kontaktaufnahme.</div>
             <div class="well">
             E-P-M GmbH<br>
             Beim Pfarracker 3a<br>
@@ -38,8 +38,8 @@
             </div>
 
           </div>
-          <div class="col-sm-8">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d42486.75702128526!2d11.568083541019242!3d48.27549068602486!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e71c650562bd9%3A0xb9c6dec2b56265e2!2sBeim+Pfarracker+3A%2C+85716+Unterschlei%C3%9Fheim%2C+Duitsland!5e0!3m2!1snl!2snl!4v1410428145613" width="100%" height="310" frameborder="0" style="border:0" class="google-map"></iframe>
+          <div class="col-sm-6 col-sm-push-2">
+            <img src="/img/kontakt.jpg" alt="Kontakt illustration">
           </div>
         </div>
       </div>
