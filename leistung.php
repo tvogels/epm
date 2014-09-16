@@ -12,7 +12,7 @@ function epm_leistung_header($type) {
     'page-title' => 'Leistung - ' . ucfirst($type)
   )); 
 ?>
-      <div class="global-banner banner-small" style="background-image:url(img/bg/<?php echo $type ?>.jpg);">
+      <div class="global-banner banner-small" data-bg="<?php echo $type ?>.jpg">
         <div class="container banner-container">
           <div class="row">
             <div class="col-sm-6 col-sm-offset-6 banner-content">

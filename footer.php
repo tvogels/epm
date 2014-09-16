@@ -36,6 +36,17 @@ function epm_footer() {
           $('.global-nav').addClass('open');
         }
       });
+      function changeBg() {
+        $('[data-bg]').each(function (elem) {
+          var small = '';
+          if ($(window).width() <= 590) {
+            small = '-small';
+          }
+          $(this).css('background-image', 'url(/img/bg'+small+'/' + $(this).attr('data-bg') + ')');
+        });
+      }
+      window.onresize = changeBg;
+      changeBg();
     });
     </script>
   </body>

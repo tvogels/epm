@@ -3,7 +3,7 @@
   'active' => 'leistung',
   'page-title' => 'Vorgehensweise'
 )); ?>
-      <div class="global-banner banner-small" style="background-image:url(img/car-bg.jpg);">
+      <div class="global-banner banner-small" data-bg="car.jpg">
         <div class="container banner-container">
           <div class="row">
             <div class="col-sm-6 col-sm-offset-6 banner-content">

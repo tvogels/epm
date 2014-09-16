@@ -2,7 +2,7 @@
 <?php epm_header(array(
   'active' => 'home'
 )); ?>
-      <div class="global-banner" style="background-image:url(img/car-bg.jpg);">
+      <div class="global-banner" data-bg="car.jpg">
         <div class="container banner-container">
           <div class="row">
             <div class="col-sm-6 col-sm-offset-6 banner-content">
