@@ -1,7 +1,7 @@
 <?php require_once('bootstrap.php'); ?>
 <?php epm_header(array(
   'active' => 'kontakt',
-  'page-title' => 'Kontakt'
+  'page-title' => t('kontakt.pagetitle')
 )); ?>
       <div class="global-banner banner-small" data-bg="kontakt.jpg">
         <div class="container banner-container">
@@ -19,22 +19,10 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-4">
-            <h1>Kontakt</h1>
-            <div class="lead">Wir freuen uns auf Ihre Kontaktaufnahme.</div>
+            <h1><?php echo t('kontakt.pagetitle') ?></h1>
+            <div class="lead"><?php echo t('kontakt.intro') ?></div>
             <div class="well">
-            E-P-M GmbH<br>
-            Beim Pfarracker 3a<br>
-            D-85716 Unterschleißheim<br><br>
-            <table>
-              <tr>
-                <td class="light">Tel.</td>
-                <td>+49 (0)89 8890 0059</td>
-              </tr>
-              <tr>
-                <td class="light">Email:</td>
-                <td>info@ep-m.de</td>
-              </tr>
-            </table>
+          <?php echo t('kontakt.body') ?>
             </div>
 
           </div>

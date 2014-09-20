@@ -6481,17 +6481,17 @@ h2 {
     font-weight: 500;
     color: #211a68;
     transition: 0.3s border-color ease, color 0.3s ease;
-    border-bottom: 7px solid #e2e4e7;
+    border-bottom: 5px solid #e2e4e7;
     padding-bottom: 9px;
   }
   .global-nav a:hover,
   .global-nav a.active {
     text-decoration: none;
     color: #888;
-    border-bottom: 7px solid #ccc;
+    border-bottom: 5px solid #ccc;
   }
   .global-nav a.active {
-    border-bottom: 7px solid #bbb;
+    border-bottom: 5px solid #bbb;
   }
 }
 @media (min-width: 1200px) {

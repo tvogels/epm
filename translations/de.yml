@@ -1,0 +1,251 @@
+# Page title
+pagetitle: "EPM"
+
+# General
+general:
+  read-more: "Mehr"
+
+# Navigation
+nav:
+  home: "Home"
+  unternehmen: "Unternehmen"
+  leistung: "Leistung"
+  leadership: "Leadership"
+  jobs: "Jobs"
+  kontakt: "Kontakt"
+
+# Footer (on every page)
+footer:
+  address: |
+    <strong>E-P-M GmbH</strong><br>
+    Beim Pfarracker 3a<br>
+    D-85716 Unterschleißheim
+  leader: |
+    Geschäftsführer:  Bernhard Ranftl<br>
+    Tel.: +49 (0)89 8890 0059<br>
+    Email:  info@ep-m.de
+  data: |
+    Amtsger. München HRB 171236<br>
+    Steuernummer: 143/134/00639<br>
+    Ust.-Id.: DE 257515537
+
+# Home
+home:
+  teaser: |
+    <p>What can we do for</p>
+    <p>your business?</p>
+  monitoring: |
+    <p>Verlässliche Aussagen über die wichtigsten Kennzahlen eines Unternehmens sind die unabdingbare Grundlage für jede Form von Optimierung.</p>
+  optimization: |
+    <p>Optimierung ist kein Luxus sondern Notwendigkeit. Nur wer sich kontinuierlich verbessert bleibt wettbewerbsfähig.</p>
+  turnaround: |
+    <p>Befindet sich ein Unternehmen in der Krise, ist ein stringentes Turn-Around-Management erforderlich.</p>
+  hrsupport: |
+    <p>Fehlen Ihnen die Profis, um geplante Maßnahmen erfolgreich umzusetzen, stehen Ihnen erfahrene Manager der EPM übergangsweise zur Verfügung.</p>
+  story:
+    left: |
+      <h2>Wir suchen nach engagierten Beratern, die unser Team verstärken wollen</h2>
+      <p>In den Bereichen Performance-Monitoring, Produktionsoptimierung und Logistik sowie Projektmanagement suchen wir zusätzliche Berater. Besuchen Sie unsere Job-Seite, vielleicht passt ja eins der Profile genau zu Ihnen.
+    right: |
+      <h2>EPM erweitert Angebot</h2>
+      <p>Neben der bisherigen Beratung im Bereich Lean-Management und Leant-Production bietet die EPM jetzt auch eine hoch flexible Software für das Performance-Monitoring an, welches gemeinsam mit Partnern entwickelt wurde. Die Messung der Key Performance Indicators (KPIs) und deren Auswertung sind entscheidend für die Identifizierung von Optimierungspotential.
+
+# Unternehmen
+unternehmen:
+  pagetitle: Unternehmen
+  heading: Das Unternehmen
+  lead: |
+    Die EPM GmbH (Entwicklung, Produktion und Management) ist ein Consulting-Unternehmen, das sich auf die Beratung von Produktionsbetrieben spezialisiert hat. 
+    Dabei dienen die Prinzipien des Lean-Management und der Lean-Production als Richtlinie für alle Beratungsschritte.
+  body: |
+    <p>Im Mittelpunkt der Aktivitäten steht die Optimierung von organisatorischen und produktionsbezogenen Prozessen, um die Unternehmensperformance nachhaltig zu steigern. Sollte es akute Probleme geben (z.B. bei der Qualität), so stehen unsere Experten auch für ein kurzfristiges Troubleshooting zur Verfügung. </p>
+    <p>Ausgangspunkt für Optimierungsmaßnahmen ist die Definition, Analyse und das Monitoring der wichtigsten Steuerungskennzahlen (Key Performance Indikatoren). Um eine unternehmensweite Datenkonsistenz und ein zielgruppenspezifisches  Reporting zu gewährleisten, hat ein Tochterunternehmen der EPM eigens ein Performance-Monitoring-System entwickelt, das hochflexibel an die individuellen Bedürfnisse des Kunden angepasst werden kann.</p>
+    <p>Die dadurch erlangte Transparenz über die wesentlichen Kennzahlen dient als Basis für die Identifizierung von Optimierungspotentialen und die Nachverfolgung von eingeleiteten Aktionen. Diese können sich auf alle Produktionsbereiche erstrecken (Einkauf, Logistik, Produktion, Qualität).</p>
+    <p>Für die Umsetzung der beschlossenen Optimierungsmaßnahmen empfiehlt die EPM ein Team aus Mitarbeitern des Kunden und EPM-Spezialisten, um schnell die gewünschten Erfolge zu erzielen.</p>
+    <h2>Das Team</h2>
+    <p>Die Consultants der EPM verfügen über hervorragendes Branchen-Know-How und langjährige Berufserfahrung in der Industrie. Dabei zeichnet sich das Team der EPM nicht nur durch das Erarbeiten praxistauglicher Konzepte aus, sondern auch durch seine Umsetzungsstärke. Gemäß dem Motto „Getting it done“ steht die EPM ganz besonders für die nachhaltige Umsetzung empfohlener Maßnahmen.</p>
+    <h2>Die Kunden</h2>
+    <p>Der Kundenkreis der EPM umfasst internationale Unternehmen aus unterschiedlichen Branchen (Automobil, Metall- und Kunststoffverarbeitende Industrie, Pharma, Hygiene und weitere), wobei die Automotive-Branche den Schwerpunkt der Beratungsaktivitäten einnimmt.</p>
+    <p>Neben vielen Projekten zur Performance-Optimierung hat die EPM auch langjährige Erfahrung in der erfolgreichen Umsetzung von Sanierungsprojekten.</p>
+  refreg: Referenzregionen
+
+# Leistung
+leistung:
+  pagetitle: Leistung
+  monitoring: 
+    intro: |
+      Die Definition, Erfassung und Darstellung der wichtigsten Unternehmens-Kennzahlen sind unabdingbar für eine effiziente Unternehmenssteuerung und der Identifizierung von Optimierungspotential. 
+      Das mit Partnern entwickelte KPI-Monitoringsystem hilft, höchste Transparenz zu schaffen.
+    kernzahlen:
+      label: Kernzahlen
+      content: |
+        <li>Auswahl der wichtigsten Kennzahlen<br>
+        (Key Performance Indicators = KPIs)</li>
+        <li>Klare Definition der KPIs und Festlegen der Messkriterien</li>
+    monitoring:
+      label: Monitoring
+      content: |
+        <li>Zeitnahe Erfassung der Rohdaten und Berechnung der KPIs</li>
+        <li>Auswertung mit Alarmfunktion</li>
+        <li>Erfassen und Nachverfolgen von Aktionen und Maßnahmen</li>
+    reporting:
+      label: Reporting
+      content: |
+        <li>Ausgabe aussagekräftiger Reports</li>
+        <li>Umfassendes Rollen und Zugriffsmanagement</li>
+        <li>Export-Funktionen (z.B. Excel)</li>
+  optimization:
+    intro: |
+      Um seine Wettbewerbsfähigkeit zu erhalten muss ein Unternehmen dazu bereit sein, sämtliche Unternehmensbereiche kontinuierlich zu überprüfen und gegebenenfalls zu optimieren. 
+      Bei akuten Problemen in der Produktion stehen die Experten der EPM auch für ein kurzfristiges Troubleshooting zur Verfügung.
+    perfmon:
+      label: Performance-Monitoring
+      content: |
+        <li>Sind die Kennzahlen richtig gewählt?</li>
+        <li>Werden Daten korrekt erhoben und ausgewertet?</li>
+        <li>Gibt es ein aussagekräftiges Reporting?</li>
+    prod:
+      label: Produktion
+      content: |
+        <li>Durchsatzoptimierung</li>
+        <li>Kostenoptimierung, Vermeidung von Verschwendung</li>
+        <li>Kennzahlen-Transparenz über alle Stufen der Produktion</li>
+    qual:
+      label: Qualität
+      content: |
+        <li>Interne Produktqualität (z.B. FMEA, QFD, Poka Yoke, SPR)</li>
+        <li>Externe Produktqualität (z.B. Lieferantenaudit)</li>
+        <li>Kontinuierliches Qualitätsmonitoring (TQM)</li>
+    eink:
+      label: Einkauf
+      content: |
+        <li>Lieferantenauswahl (Qualität, Technologie, Preis)</li>
+        <li>Lieferantensteuerung</li>
+        <li>Tracking / Vorort-Management</li>
+    logi:
+      label: Logistik
+      content: |
+        <li>Materialfluss (z.B. Kanban, Wertstromanalyse, JIT/JIS)</li>
+        <li>Bestandsmanagement</li>
+        <li>Transport</li>
+  turnaround:
+    intro: |
+      Befindet sich ein Unternehmen erst einmal in der Krise, hilft nur ein stringentes Turn-Around-Management. 
+      Es müssen schnell signifikante Verbesserungen in allen Unternehmensbereichen erzielt werden:
+    sankon:
+      label: |
+        Erarbeiten eines<br>
+        <strong>Sanierungskonzeptes</strong>
+      content: |
+        <li>Problemanalyse und Sanierungsgutachten</li>
+        <li>Maßnahmenkatalog</li>
+        <li>Projektplan mit Zeitschiene</li>
+    krisen:
+      label: Krisenmanagement
+      content: |
+        <li>Einbinden aller relevanten Abteilungen</li>
+        <li>Einbindung von Betriebsrat und Gewerkschaft</li>
+        <li>Reporting für maximale Transparenz</li>
+    strinums:
+      label: Stringente Umsetzung
+      content: |
+        <li>Umsetzung und Monitoring beschlossener Maßnahmen</li>
+        <li>Einbindung erfahrener Juristen und Wirtschaftsprüfer</li>
+        <li>Kommunikation mit Banken und Investoren</li>
+  hrsupport:
+    intro: |
+      Gemäß dem Unternehmensmotto „Getting it done“ sind Konzepte nur so gut wie deren Realisierung. 
+      Oft fehlt es den betroffenen Unternehmen aber an ausreichend Ressourcen, um dringend notwendige Maßnahmen umzusetzen. 
+      Hier können Spezialisten der EPM GmbH für Interimszeiträume operative Aufgaben beim Kunden übernehmen.
+    obman:
+      label: Oberes Management
+      content: |
+        <li>1. und 2. Führungsebene</li>
+    mitman:
+      label: Mittleres Management
+      content: |
+        <li>Abteilungsebene</li>
+    projekt:
+      label: Projektebene
+      content: |
+        <li>Teamunterstützung in allen produktionsbegleitenden Prozessen</li>
+
+# Leadership
+leadership:
+  pagetitle: Leadership
+  management: Management
+  dobLabel: Geb.
+  bernhard: |
+    <li>Gründer und Geschäftsführer</li>
+    <li>Ausbildung zum Modellbau-Meister mit Fachrichtung Automotive, danach BWL-Studium.</li>
+    <li>Seit 30 Jahren in der Automobilindustrie tätig. Zunächst Geschäftsführer mittelständischer Fertigungsbetriebe, später dann Gründung der EPM als Consulting Gesellschaft für Restrukturierungs- und Turnaround-Management Projekte.</li>
+  dietmar: |
+    <li>Mitglied der Geschäftsleitung</li>
+    <li>Nach seiner Ausbildung zum Elektronik-Ingenieur war Herr Wolf in großen börsennotierten Unternehmen der Automobilindustrie in leitenden Positionen für die Bereiche Einkauf und Logistik verantwortlich.  Seit 2004 ist Herr Wolf Senior Consultant der E-P-M GmbH.</li>
+  roy: |
+    <li>Mitglied der Geschäftsleitung</li>
+    <li>Diplom an der TU München im Fach Informatik. Danach Aufbau und Leitung mehrerer Unternehmen, unter anderem als CEO börsennotierter Aktiengesellschaften. Seit 2012 als Senior Consultant bei der E-P-M GmbH.</li>
+
+# Jobs
+jobs:
+  pagetitle: Jobs
+  intro: |
+    Wir möchten unser Team verstärken und freuen uns auf Ihre aussagekräftige Bewerbung. 
+    Folgende Positionen möchten wir besetzen:
+  sidebar: |
+    Wir freuen uns auf Ihre aussagekräftige Bewerbung entweder per Mail an career@ep-m.de oder per Post an E-P-M GmbH, Personalabteilung, Beim Pfarracker 3a, 85716 Unterschleißheim. 
+  sencon:
+    title: Senior Consultant Automotive (m/w)
+    desc: |
+      <p>Unser Automotive-Team berät internationale Unternehmen in der Automobil-Branche.</p>
+      <p>Wir unterstützen unsere Kunden bei der Einführung neuer Produkte, der Optimierung ihrer Produktionsbetriebe und der erfolgreichen Sanierung kompletter Standorte. Für unser wachsendes Team suchen wir kompetente Verstärkung.</p>
+      <p>Nach einem sehr guten Abschluss an einer Universität oder einer internationalen Hochschule haben Sie (m/w) bereits mehrere Jahre in der Industrie und/oder als Berater Erfahrung gesammelt. Sie haben sehr gute analytische Fähigkeiten und sind in der Lage, innovative und praktikable Problemlösungen zu erarbeiten. Sie haben fundiertes Wissen über die Prinzipien von Lean-Production und Lean-Management und sind in der Lage, Projekt- und Teamverantwortung zu übernehmen. Sie sind flexibel  und teamorientiert, haben ein sicheres Auftreten im internationalen Umfeld und verfügen über sehr gute Englischkenntnisse.</p>
+      <p>Sind Sie bereit für eine neue Herausforderung? Dann schicken Sie uns bitte Ihre aussagekräftige Bewerbung per Email an career@ep-m.de oder per Post.</p>
+  conau:
+    title: Consultant Automotive (m/w)
+    desc: |
+      <p>Unser Automotive-Team berät internationale Unternehmen in der Automobil-Branche.</p>
+      <p>Wir unterstützen unsere Kunden bei der Einführung neuer Produkte, der Optimierung ihrer Produktionsbetriebe und der erfolgreichen Sanierung kompletter Standorte. Für unser wachsendes Team suchen wir kompetente Verstärkung.</p>
+      <p>Sie haben einen sehr guten Abschluss an einer Universität oder Hochschule im Bereich Wirtschaft und/oder Technik. Sie sind in der Lage, komplexe Prozesse strukturiert zu analysieren und Ergebnisse aussagekräftig aufzubereiten. Neben der gesamten Office-Suite haben Sie auch Erfahrung gesammelt mit Methoden der Prozess- und Fehleranalyse. Einer Ihrer universitären Schwerpunkte war Logistik, Qualitätsmanagement oder Prozessoptimierung. Sie haben sehr gute Englischkenntnisse und ein sicheres Auftreten. Sie sind teamfähig und haben einen sehr hohen Qualitätsanspruch an Ihre eigene Arbeit.</p>
+      <p>Haben wir Ihr Interesse geweckt? Dann schicken Sie uns bitte Ihre aussagekräftige Bewerbung per Email an career@ep-m.de oder per Post.</p>
+  conqua:
+    title: Consultant Qualität (m/w)
+    desc: |
+      <p>Die E-P-M GmbH ist ein stark wachsendes, auf Produktionsbetriebe spezialisiertes Beratungsunternehmen. Gemeinsam mit unseren Kunden analysieren wir einzelne Geschäftsbereiche, um diese auf Schwachstellen hin zu untersuchen und gegebenenfalls zu optimieren.</p>
+      <p>Zur Unterstützung unseres Teams suchen wir Berater mit dem Schwerpunkt Qualität in der Produktion. </p>
+      <p>Sie (m/w) haben einen sehr guten Ausbildungsabschluss und verfügen über sehr gute englische Sprachkenntnisse. Sie haben erfolgreich Qualitätsschulungen abgeschlossen und bereits Erfahrung in der Qualitätsoptimierung gesammelt. Die gängigen Qualitätssicherungs- und Analyse-Methoden sind Ihnen bestens bekannt. Sie sind mobil und örtlich flexibel. Sie haben ein sicheres Auftreten und sind teamfähig.</p>
+      <p>Haben wir Ihr Interesse geweckt? Dann schicken Sie uns bitte Ihre aussagekräftige Bewerbung per Email an career@ep-m.de oder per Post.</p>
+  conall:
+    title: Consultant (m/w) Allgemein
+    desc: |
+      <p>Die E-P-M GmbH ist ein stark wachsendes, auf Produktionsbetriebe spezialisiertes Beratungsunternehmen. Gemeinsam mit unseren Kunden analysieren wir einzelne Geschäftsbereiche, um diese auf Schwachstellen hin zu untersuchen und gegebenenfalls zu optimieren.</p>
+      <p>Wir suchen zur Unterstützung unseres Teams Consultants (m/w) in allen Ebenen, vom Studienabsolventen bis hin zum Berater mit mehrjähriger Berufserfahrung. </p>
+      <p>Sie haben einen sehr guten Ausbildungsabschluss und verfügen über sehr gute englische Sprachkenntnisse. Sie sind analytisch und in der Lage, pragmatische Konzepte zu erarbeiten. Flexibilität in Bezug auf den Einsatzort ist für Sie selbstverständlich. Sie haben ein sicheres Auftreten und sind teamfähig.</p>
+      <p>Haben wir Ihr Interesse geweckt? Dann schicken Sie uns bitte Ihre aussagekräftige Bewerbung per Email an career@ep-m.de oder per Post.</p>
+  projekt:
+    title: Projektleiter Produktion (m/w)
+    desc: |
+      <p>Wir unterstützen unsere Kunden bei der Einführung neuer Produkte, beim Aufbau von Montagelinien, bei der Lieferantenauswahl und entsprechenden Qualitätsaudits. Für unser wachsendes Team suchen wir kompetente Verstärkung.</p>
+      <p>Sie (m/w) haben Erfahrung in der Automotive Branche und in der Steuerung größerer Projekte. Dabei ist die Einhaltung von Projektterminen für Sie genauso wichtig wie die Nachhaltigkeit der Umsetzung. Sie sind durchsetzungsstark und können Team-Mitglieder aus verschiedenen Abteilungen steuern. Sie verfügen über eine schnelle Auffassungsgabe und sehr gute englische Sprachkenntnisse. Sie sind örtlich flexibel. </p>
+      <p>Haben wir Ihr Interesse geweckt? Dann schicken Sie uns bitte Ihre aussagekräftige Bewerbung per Email an career@ep-m.de oder per Post.</p>
+
+# kontakt
+kontakt:
+  pagetitle: Kontakt
+  intro: Wir freuen uns auf Ihre Kontaktaufnahme.
+  body: |
+    E-P-M GmbH<br>
+    Beim Pfarracker 3a<br>
+    D-85716 Unterschleißheim<br><br>
+    <table>
+      <tr>
+        <td class="light">Tel.</td>
+        <td>+49 (0)89 8890 0059</td>
+      </tr>
+      <tr>
+        <td class="light">Email:</td>
+        <td>info@ep-m.de</td>
+      </tr>
+    </table>
+
+
