@@ -5,13 +5,13 @@
         </p>
         <dl class="epm-dl">
           <div class="row">
-            <dt class="col-sm-4">
+            <dt class="col-sm-4 dt-2-lines">
               Erarbeiten eines<br>
               <strong>Sanierungskonzeptes</strong>
             </dt>
             <dd class="col-sm-8">
               <ul class="dd-content">
-                <li>Problemanalyse</li>
+                <li>Problemanalyse und Sanierungsgutachten</li>
                 <li>Maßnahmenkatalog</li>
                 <li>Projektplan mit Zeitschiene</li>
               </ul>
@@ -19,7 +19,7 @@
           </div>
           <div class="row">
             <dt class="col-sm-4">
-              <strong>Krisenmanagement</strong><br>&nbsp;
+              <strong>Krisenmanagement</strong>
             </dt>
             <dd class="col-sm-8">
               <ul class="dd-content">
@@ -31,13 +31,13 @@
           </div>
           <div class="row">
             <dt class="col-sm-4">
-              <strong>Stringente Umsetzung</strong><br>&nbsp;
+              <strong>Stringente Umsetzung</strong>
             </dt>
             <dd class="col-sm-8">
               <ul class="dd-content">
                 <li>Umsetzung und Monitoring beschlossener Maßnahmen</li>
                 <li>Einbindung erfahrener Juristen und Wirtschaftsprüfer</li>
-                <li>Verhandlung mit Banken und Investoren</li>
+                <li>Kommunikation mit Banken und Investoren</li>
               </ul>
             </dd>
           </div>

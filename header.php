@@ -36,6 +36,10 @@ function epm_header($params) {
           <span class="glyphicon glyphicon-align-justify"></span>
           <span class="glyphicon glyphicon-remove"></span>
         </a>
+        <ul class="flags">
+          <li class="active"><a href="#"><img src="/img/flags/de.png" alt="Deutsche Version"></a></li>
+          <li><a href="/english.php"><img src="/img/flags/gb.png" alt="English Version"></a></li>
+        </ul>
         <ul class="global-nav">
           <li><a href="/" class="<?php echo page_active('home', $params['active']) ?>">Home</a></li>
           <li><a href="/unternehmen.php" class="<?php echo page_active('unternehmen', $params['active']) ?>">Unternehmen</a></li>

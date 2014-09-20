@@ -6,35 +6,35 @@
         <dl class="epm-dl">
           <div class="row">
             <dt class="col-sm-4">
-              <strong>Oberes Management</strong><br>&nbsp;
+              <strong>Oberes Management</strong>
             </dt>
-            <dd class="col-sm-8">
+            <dd class="col-sm-8">&nbsp;<br>
               <ul class="dd-content">
                 <li>1. und 2. Führungsebene</li>
               </ul>
-              &nbsp;<br>&nbsp;
+              &nbsp;
             </dd>
           </div>
           <div class="row">
             <dt class="col-sm-4">
-              <strong>Mittleres Management</strong><br>&nbsp;
+              <strong>Mittleres Management</strong>
             </dt>
-            <dd class="col-sm-8">
+            <dd class="col-sm-8">&nbsp;<br>
               <ul class="dd-content">
                 <li>Abteilungsebene</li>
               </ul>
-              &nbsp;<br>&nbsp;
+              &nbsp;
             </dd>
           </div>
           <div class="row">
             <dt class="col-sm-4">
-              <strong>Projektebene</strong><br>&nbsp;
+              <strong>Projektebene</strong>
             </dt>
-            <dd class="col-sm-8">
+            <dd class="col-sm-8">&nbsp;<br>
               <ul class="dd-content">
                 <li>Teamunterstützung in allen produktionsbegleitenden Prozessen</li>
               </ul>
-              &nbsp;<br>&nbsp;
+              &nbsp;
             </dd>
           </div>
         </dl>

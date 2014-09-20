@@ -6,11 +6,11 @@
         <dl class="epm-dl">
           <div class="row">
             <dt class="col-sm-4">
-              <strong>Performance-Monitoring</strong><br>&nbsp;
+              <strong>Performance-Monitoring</strong>
             </dt>
             <dd class="col-sm-8">
               <ul class="dd-content">
-                <li>Sind die Kennzahlen richtig gewählt</li>
+                <li>Sind die Kennzahlen richtig gewählt?</li>
                 <li>Werden Daten korrekt erhoben und ausgewertet?</li>
                 <li>Gibt es ein aussagekräftiges Reporting?</li>
               </ul>
@@ -18,7 +18,7 @@
           </div>
           <div class="row">
             <dt class="col-sm-4">
-              <strong>Produktion</strong><br>&nbsp;
+              <strong>Produktion</strong>
             </dt>
             <dd class="col-sm-8">
               <ul class="dd-content">
@@ -30,7 +30,7 @@
           </div>
           <div class="row">
             <dt class="col-sm-4">
-              <strong>Qualität</strong><br>&nbsp;
+              <strong>Qualität</strong>
             </dt>
             <dd class="col-sm-8">
               <ul class="dd-content">
@@ -42,7 +42,7 @@
           </div>
           <div class="row">
             <dt class="col-sm-4">
-              <strong>Einkauf</strong><br>&nbsp;
+              <strong>Einkauf</strong>
             </dt>
             <dd class="col-sm-8">
               <ul class="dd-content">
@@ -54,7 +54,7 @@
           </div>
           <div class="row">
             <dt class="col-sm-4">
-              <strong>Logistik</strong><br>&nbsp;
+              <strong>Logistik</strong>
             </dt>
             <dd class="col-sm-8">
               <ul class="dd-content">

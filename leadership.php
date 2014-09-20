@@ -31,7 +31,7 @@
               <li><span style="color:rgb(121,139,145);">Geb.</span> 24.8.1962</li>
               <li>Gründer und Geschäftsführer</li>
               <li>Ausbildung zum Modellbau-Meister mit Fachrichtung Automotive, danach BWL-Studium.</li>
-              <li>Seit 30 Jahren in der Automobilindustrie tätig. Zunächst Geschäftsführer mittelständischer Fertigungsbetriebe, später dann die EPM als Consulting Gesellschaft für Restrukturierungs- und Turnaround-Management Projekte gegründet. Scherpunkt Qualität, Produktion.</li>
+              <li>Seit 30 Jahren in der Automobilindustrie tätig. Zunächst Geschäftsführer mittelständischer Fertigungsbetriebe, später dann Gründung der EPM als Consulting Gesellschaft für Restrukturierungs- und Turnaround-Management Projekte.</li>
             </ul>
           </div>
           <div class="col-md-1 col-xs-2">
@@ -45,7 +45,7 @@
               <li>Senior Consultant</li>
               <li><span style="color:rgb(121,139,145);">Geb.</span>  21.5.1957</li>
               <li>Mitglied der Geschäftsleitung</li>
-              <li>Nach seiner Ausbildung zum Elektronik-Ingenieur war Herr Wolf in großen börsennotierten Unternehmen der Automobilindustrie  in leitenden Positionen für die Bereiche Einkauf und Logistik verantwortlich.  Seit 2004 ist Herr Wolf Senior Partner der E-P-M GmbH.</li>
+              <li>Nach seiner Ausbildung zum Elektronik-Ingenieur war Herr Wolf in großen börsennotierten Unternehmen der Automobilindustrie in leitenden Positionen für die Bereiche Einkauf und Logistik verantwortlich.  Seit 2004 ist Herr Wolf Senior Consultant der E-P-M GmbH.</li>
             </ul>
           </div>
           <div class="col-md-1 col-xs-2">
@@ -59,7 +59,7 @@
               <li>Senior Consultant</li>
               <li><span style="color:rgb(121,139,145);">Geb.</span> 7.3.1964</li>
               <li>Mitglied der Geschäftsleitung</li>
-              <li>Diplom an der TU München im Fach Informatik. Danach Aufbau und Leitung mehrerer Unternehmen, unter anderem als CEO zweier börsennotierter AGs. Schwerpunkt Performance-Monitoring, Einkauf und Unternehmensexpansion. Seit 2012 als Senior Berater bei der E-P-M GmbH.</li>
+              <li>Diplom an der TU München im Fach Informatik. Danach Aufbau und Leitung mehrerer Unternehmen, unter anderem als CEO börsennotierter Aktiengesellschaften. Seit 2012 als Senior Consultant bei der E-P-M GmbH.</li>
             </ul>
           </div>
         </div>
