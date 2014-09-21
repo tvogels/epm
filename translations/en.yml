@@ -59,7 +59,7 @@ unternehmen:
   body: |
     <p>At the center of all activities lies the optimization of organizational and production-related processes, with the goal of sustained improvement in business performance.  Our experts are available for fast troubleshooting should you run into acute problems, for instance, related to quality.</p>
     <p>The starting point for all optimization measures is the definition, analysis and monitoring of the Key Performance Indicators (KPIs). In order to guarantee business-wide data consistency and target-audience-specific reporting, an EPM subsidiary has developed a Performance-Monitoring System that can be flexibly adjusted to a client’s individual needs.</p>
-    <p>The transparency gained concerning important figures serves as a basis for the identification of optimization potential and the tracking of actions that have been introduced. These actions can extend to all production sectors including procurement, logisitics, production and quality. </p>
+    <p>The transparency gained concerning important indicators serves as a basis for the identification of optimization potential and the tracking of actions that have been introduced. These actions can extend to all production sectors including procurement, logisitics, production and quality. </p>
     <p>In order to implement the approved optimization measures and to quickly achieve the desired goals, EMP recommends a team consisting of the client’s employees and EPM specialists. </p>
     <h2>The Team</h2>
     <p>The consultants at EPM have excellent know-how in a wide range of sectors and many years of experience in industry.  The EPM team not only excels in the development of practical concepts, but also in their strong ability to realize these ideas. In line with the motto “Getting it done”, EPM places a particular focus on the lasting implementation of recommended actions.</p>
@@ -89,12 +89,12 @@ leistung:
     reporting:
       label: Reporting
       content: |
-        <li>The issue of informative reports</li>
+        <li>The issuing of informative reports</li>
         <li>Comprehensive Role and Access Management</li>
         <li>Export functions (e.g. Excel)</li>
   optimization:
     intro: |
-      In order to remain competitive, a business must be prepared to continually review all business divisions and to optimize them if necessary. In the case of acutre problems in production, the EPM experts are available for quick troubleshooting.
+      In order to remain competitive, a business must be prepared to continually review all divisions and to optimize them if necessary. In the case of acute problems in production, the EPM experts are available for quick troubleshooting.
     perfmon:
       label: Performance-Monitoring
       content: |
@@ -130,7 +130,7 @@ leistung:
       If a company finds itself in a crisis, only stringent turnaround management can help. Significant improvements in all divisions must be quickly achieved:
     sankon:
       label: |
-        <strong>Remediation Plan</strong>
+        Remediation Plan
       content: |
         <li>Problem analysis and reorganization reports</li>
         <li>Catalog of measures</li>
@@ -170,8 +170,8 @@ leadership:
   dobLabel: Born
   bernhard: |
     <li>Founder and Managing Director</li>
-    <li>Training as Master of Model-making specializing in automotives followed by a degree in Business Administration.</li>
-    <li>Mr. Ranftl has been active in the automotive industry for 30 years. He began as the managing director for medium-sized manufacturing companies. Later, Mr. Ranftl founded EPM as consulting company for restructuring and turnaround management projects.</li>
+    <li>Training as Master of Model-making with an automotive specialization followed by a degree in Business Administration.</li>
+    <li>Mr. Ranftl has been active in the automotive industry for 30 years. He began as the managing director for medium-sized manufacturing companies. Later, Mr. Ranftl founded EPM as a consulting company for restructuring and turnaround management projects.</li>
   dietmar: |
     <li>Member of the Board</li>
     <li>Following his degree in Electronics Engineering, Mr. Wolf held managerial positions in large listed companies in the automotive industry during which he was responsible for purchasing and logistics. Mr Wolf has been a senior consultant at EMP GmbH since 2004.</li>
@@ -213,11 +213,11 @@ jobs:
     desc: |
       <p>EPM GmbH is a fast growing consulting firm specializing in manufacturing operations. Together with our clients, we analyse individual business sectors to find any vulnerabilities and if need be, to optimize them.</p>
       <p>We are looking for someone to support our team consultants (m/f) at all levels, from graduates to consultants with many years of professional experience. </p>
-      <p>You have very good training qualifications and have a very good knowledge of English. You have good analytical skills and able to develop pragmatic concepts. You are of course flexible with respect to the site of operations. You are confident and a team player.</p>
+      <p>You have very good training qualifications and have a very good knowledge of English. You have good analytical skills and are able to develop pragmatic concepts. You are of course flexible with respect to the site of operations. You are confident and a team player.</p>
       <p>Have we sparked your interest? Then please send us a comprehensive application via Email to career@ep-m.de or by post.</p>
   projekt:
 
-    title: Production project Manager (m/f)
+    title: Production Project Manager (m/f)
     desc: |
       <p>We support our clients in the introduction of new products, construction of assembly lines, selection of suppliers and corresponding quality audits. We are looking for a competent addition to our growing team. </p>
       <p>You have experience in the automotive sector and in the management of large projects.  Adherence to project deadlines is just as important to you as the sustainability of the implementation.  You are assertive and can lead team members from various departments. You are able to grasp new concepts quickly and have a very good knowledge of English. You are flexible regarding location. </p>

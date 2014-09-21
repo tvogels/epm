@@ -5,8 +5,8 @@
         </p>
         <dl class="epm-dl">
           <div class="row">
-            <dt class="col-sm-4 dt-2-lines">
-              <?php echo t('leistung.turnaround.sankon.label') ?>
+            <dt class="col-sm-4">
+              <strong><?php echo t('leistung.turnaround.sankon.label') ?></strong>
             </dt>
             <dd class="col-sm-8">
               <ul class="dd-content">
