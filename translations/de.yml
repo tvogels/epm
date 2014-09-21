@@ -48,7 +48,7 @@ home:
       <p>In den Bereichen Performance-Monitoring, Produktionsoptimierung und Logistik sowie Projektmanagement suchen wir zusätzliche Berater. Besuchen Sie unsere Job-Seite, vielleicht passt ja eins der Profile genau zu Ihnen.
     right: |
       <h2>EPM erweitert Angebot</h2>
-      <p>Neben der bisherigen Beratung im Bereich Lean-Management und Leant-Production bietet die EPM jetzt auch eine hoch flexible Software für das Performance-Monitoring an, welches gemeinsam mit Partnern entwickelt wurde. Die Messung der Key Performance Indicators (KPIs) und deren Auswertung sind entscheidend für die Identifizierung von Optimierungspotential.
+      <p>Neben der bisherigen Beratung im Bereich Lean-Management und Lean-Production bietet die EPM jetzt auch eine hoch flexible Software für das Performance-Monitoring an, welches gemeinsam mit Partnern entwickelt wurde. Die Messung der Key Performance Indicators (KPIs) und deren Auswertung sind entscheidend für die Identifizierung von Optimierungspotential.
 
 # Unternehmen
 unternehmen:
@@ -77,7 +77,7 @@ leistung:
       Die Definition, Erfassung und Darstellung der wichtigsten Unternehmens-Kennzahlen sind unabdingbar für eine effiziente Unternehmenssteuerung und der Identifizierung von Optimierungspotential. 
       Das mit Partnern entwickelte KPI-Monitoringsystem hilft, höchste Transparenz zu schaffen.
     kernzahlen:
-      label: Kernzahlen
+      label: Kennzahlen
       content: |
         <li>Auswahl der wichtigsten Kennzahlen<br>
         (Key Performance Indicators = KPIs)</li>
