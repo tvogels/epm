@@ -35,37 +35,37 @@ home:
     <p>What can we do for</p>
     <p>your business?</p>
   monitoring: |
-    <p>Reliable statements concerning key business figures form an essential basis for every form of optimization.</p>
+    <p>Reliable statements concerning the most important business indicators form an essential basis for every form of optimization.</p>
   optimization: |
     <p>Optimization isn’t a luxury; it’s a necessity. Only those who continually better themselves can remain competitive.</p>
   turnaround: |
     <p>Stringent turnaround management is required if a business finds itself in a crisis.</p>
   hrsupport: |
-    <p>If you require professional assistance to successfully implement planned measures, the experienced managers at EPM stand ready to help for an interim period. </p>
+    <p>If you lack the professionals required to successfully implement planned measures, the experienced managers at EPM stand ready to help for a transitional period. </p>
   story:
     left: |
-      <h2>We are looking for engaged consultants that want to strengthen our team.</h2>
-      <p>We are looking for additional consultants in the areas of performance monitoring, product optimization and logistics as well as project management. Visit our job site, and you might find a job profile perfectly suited to you. 
+      <h2>We are looking for enthusiastic consultants to strengthen our team.</h2>
+      <p>We are looking for additional consultants in the areas of performance monitoring, product optimization and logistics as well as project management. Visit our job site and you might find a job profile perfectly suited to you. 
     right: |
       <h2>EPM's extended range of services</h2>
-      <p>In addition to the existing consultation in Lean Management and Lean Production, EPM is now also offering highly flexible software for performance monitoring, which has been developed alongside partners. The measurement of Key Performance Indicators (KPIs) and their evaluation are deciding factors for the indentification of optimization potential.
+      <p>In addition to the existing Lean Management and Lean Production consultation, EPM now also offers highly flexible software for performance monitoring, which has been developed alongside partners. The measurement of Key Performance Indicators (KPIs) and their evaluation are crucial to the indentification of optimization potential.
 
 # Unternehmen
 unternehmen:
   pagetitle: About EPM
   heading: The Company
   lead: |
-    EPM GmbH ("Entwicklung, Produktion und Management" - Development, Production and Management) is a consulting firm specializing in production facilities.  For this reason, the principles of Lean Management and Lean Production serve as guidelines for all consultation steps.
+    EPM GmbH ("Entwicklung, Produktion und Management") is a consulting firm specializing in advising manufacturing companies.  For this reason, the principles of Lean Management and Lean Production serve as guidelines for all consultation steps.
   body: |
-    <p>Optimization of organizational and production-related processes is at the center of all activities with the goal of sustained improvement in business performance.  Our experts are available for fast troubleshooting should you run into acute problems for instance, related to quality.</p>
+    <p>At the center of all activities lies the optimization of organizational and production-related processes, with the goal of sustained improvement in business performance.  Our experts are available for fast troubleshooting should you run into acute problems, for instance, related to quality.</p>
     <p>The starting point for all optimization measures is the definition, analysis and monitoring of the Key Performance Indicators (KPIs). In order to guarantee business-wide data consistency and target-audience-specific reporting, an EPM subsidiary has developed a Performance-Monitoring System that can be flexibly adjusted to a client’s individual needs.</p>
-    <p>The transparency concerning important figures achieved thereby serves as a basis for the identification of optimization potential and the tracking of any introduced actions. These actions can extend to all production sectors including purchasing, logisitics, production and quality. </p>
+    <p>The transparency gained concerning important figures serves as a basis for the identification of optimization potential and the tracking of actions that have been introduced. These actions can extend to all production sectors including procurement, logisitics, production and quality. </p>
     <p>In order to implement the approved optimization measures and to quickly achieve the desired goals, EMP recommends a team consisting of the client’s employees and EPM specialists. </p>
     <h2>The Team</h2>
-    <p>The consultants at EPM have excellent know-how in a wide range of sectors and many years of experience in industry.  The EPM team not only excels in the development practical concepts, but also in their strong ability to realize these ideas. In line with the motto “Getting it done”, EPM places a particular focus on the lasting implementation of suggested actions.</p>
+    <p>The consultants at EPM have excellent know-how in a wide range of sectors and many years of experience in industry.  The EPM team not only excels in the development of practical concepts, but also in their strong ability to realize these ideas. In line with the motto “Getting it done”, EPM places a particular focus on the lasting implementation of recommended actions.</p>
     <h2>The Clients</h2>
-    <p>The clientele of EMP includes international companies from varied sectors (automotive, metal and plastic processing, pharmaceutical, hygienics and more), though the automotive industry forms the focus of the consulting activities.</p>
-    <p>Along with many performance-optimization projects, the EPM also has many years of experience implementing remediation projects.</p>
+    <p>The clientele of EMP includes international companies from varied sectors (automotive, metal and plastic processing, pharmaceutical, hygiene and more), though the automotive industry forms the focus of the consulting activities.</p>
+    <p>Along with many performance-optimization projects, the EPM also has many years of experience in the successful implementation of remediation projects.</p>
   refreg: Reference Regions
 
 # Leistung
@@ -73,13 +73,13 @@ leistung:
   pagetitle: Services
   monitoring: 
     intro: |
-      The definition, recording and presentation of key business figures are crucial for the efficient running of a business and the identification of optimization potential. The Performance-Monitoring System, developed with partners, helps to realize the highest form of transparency.
+      The definition, collection and presentation of the most important business indicators are crucial for efficient corporate management and the identification of optimization potential. The Performance-Monitoring System, developed with partners, helps to create maximum transparency.
     kernzahlen:
       label: Key Figures
       content: |
-        <li>Selection of the most important business figures <br>
+        <li>Selection of the most important indicators <br>
         (Key Performance Indicators = KPIs)</li>
-        <li>Clear definitions of the KPIs and specification of measurement criteria.</li>
+        <li>Clear definition of the KPIs and specification of measurement criteria.</li>
     monitoring:
       label: Monitoring
       content: |
@@ -90,7 +90,7 @@ leistung:
       label: Reporting
       content: |
         <li>The issue of informative reports</li>
-        <li>Comprehensive role and access management</li>
+        <li>Comprehensive Role and Access Management</li>
         <li>Export functions (e.g. Excel)</li>
   optimization:
     intro: |
@@ -99,7 +99,7 @@ leistung:
       label: Performance-Monitoring
       content: |
         <li>Have the indicators been chosen properly?</li>
-        <li>Are the data being properly collected and evaluated correctly?</li>
+        <li>Are the data being collected and evaluated correctly?</li>
         <li>Does a comprehensive reporting system exist?</li>
     prod:
       label: Production
@@ -112,7 +112,7 @@ leistung:
       content: |
         <li>Internal product quality (e.g. FMEA, QFD, Poka Yoke, SPR)</li>
         <li>External product quality (e.g. supplier audits )</li>
-        <li>Continual quality monitoring (TQM)</li>
+        <li>Continuous quality monitoring (TQM)</li>
     eink:
       label: Purchasing
       content: |
@@ -130,7 +130,7 @@ leistung:
       If a company finds itself in a crisis, only stringent turnaround management can help. Significant improvements in all divisions must be quickly achieved:
     sankon:
       label: |
-        <strong>Restructuring Plan</strong>
+        <strong>Remediation Plan</strong>
       content: |
         <li>Problem analysis and reorganization reports</li>
         <li>Catalog of measures</li>
@@ -139,21 +139,21 @@ leistung:
       label: Crisis Management
       content: |
         <li>Integration of all relevant divisions</li>
-        <li>integration of works council and trade union</li>
-        <li>Reporting for maximal transparency</li>
+        <li>Integration of the works council and trade union</li>
+        <li>Reporting for maximum transparency</li>
     strinums:
       label: Stringent Implementation
       content: |
-        <li>Implementation and monitoring of agreed-upon measures</li>
+        <li>Implementation and monitoring of agreed upon measures</li>
         <li>Integration of experienced lawyers and accountants</li>
         <li>Communication with banks and investors</li>
   hrsupport:
     intro: |
-      In line with the business motto “Getting it done”, concepts are only as good as their realization. Often, the businesses in question are lacking sufficient resources to implement urgently needed measures. In this case, the EPM GmbH specialists can take over operational tasks for the client during an interim period.
+      In line with the company's motto “Getting it done”, concepts are only as good as their implementation. Often, the businesses in question are lacking sufficient resources to implement urgently needed measures. In this case, the EPM GmbH specialists can take over operational tasks for the client during an interim period.
     obman:
       label: Senior Management
       content: |
-        <li>1st and 2nd management levels</li>
+        <li>1st and 2nd tiers</li>
     mitman:
       label: Middle Management
       content: |
@@ -170,58 +170,58 @@ leadership:
   dobLabel: Born
   bernhard: |
     <li>Founder and Managing Director</li>
-    <li>Training as Master of Model-making followed by a degree in Business Administration.</li>
-    <li>Mr. Ranftl has been active in the automotive industry for 30 years and then became the managing director for medium-sized manufacturing companies. Later, Mr. Ranftl founded EPM as consulting company for restructuring and turnaround management projects.</li>
+    <li>Training as Master of Model-making specializing in automotives followed by a degree in Business Administration.</li>
+    <li>Mr. Ranftl has been active in the automotive industry for 30 years. He began as the managing director for medium-sized manufacturing companies. Later, Mr. Ranftl founded EPM as consulting company for restructuring and turnaround management projects.</li>
   dietmar: |
     <li>Member of the Board</li>
-    <li>Following his degree in Electronics Engineering, Mr. Wolf held managerial positions in large stock market listed automotive businesses during which he was responsible for purchasing and logistics. Mr Wolf has been a senior consultant at EMP GmbH since 2004.</li>
+    <li>Following his degree in Electronics Engineering, Mr. Wolf held managerial positions in large listed companies in the automotive industry during which he was responsible for purchasing and logistics. Mr Wolf has been a senior consultant at EMP GmbH since 2004.</li>
   roy: |
     <li>Member of the Board</li>
-    <li>Mr. von der Locht obtained a degree in Computer Science at TU Munich. Afterwards, he developed and managed several companies among other things, as CEO of listed stock companies. Mr. von der Locht has been with EPM GmbH as Senior Consultant since 2012.</li>
+    <li>Mr. von der Locht obtained a degree in Computer Science at TU Munich. Afterwards, he developed and managed several companies among other things, as CEO of listed companies. Mr. von der Locht has been with EPM GmbH as a Senior Consultant since 2012.</li>
 
 # Jobs
 jobs:
   pagetitle: Jobs
   intro: |
-    We would like to strengthen our team.  To that end, we are looking for motivated staff. We would like to fill the following positions: 
+    We want to strengthen our team.  To that end, we are looking for motivated staff. We would like to fill the following positions: 
   sidebar: |
-    We look forward to your comprehensive application either by Email at career@ep-m.de or by mail at E-P-M GmbH, Personalabteilung, Beim Pfarracker 3a, 85716 UnterschleiÃŸheim. 
+    We look forward to receiving your comprehensive application either by Email at career@ep-m.de or by post at E-P-M GmbH, Personalabteilung, Beim Pfarracker 3a, 85716 Unterschleißheim. 
   sencon:
     title: Senior Automotive Consultant (m/f)
     desc: |
       <p>Our automotive team advises international companies in the automotive sector. </p>
-      <p>We support our clients in the introduction of new products, optimization of their production plants and the successful restructuring of entire sites. We are looking for competent individuals to strengthen our growing team.</p>
+      <p>We support our clients in the introduction of new products, optimization of their production operations and the successful restructuring of entire sites. We are looking for competent individuals to strengthen our growing team.</p>
       <p>Following the successful completion of a high-quality degree at a University or International College, you should have spent several years in industry and/or as a consultant. You have very good analytical skills and are able to solve problems in an innovative and practical manner. You have a sound knowledge of the principles of Lean Production and Lean Management and are able to undertake project and team responsibilities. You are flexible and team oriented, are comfortable and confident in international surroundings and have a very good knowledge of English. </p>
-      <p>Are you ready for a new challenge? Then please send us a comprehensive application via Email to career@ep-m.de or via mail.</p>
+      <p>Are you ready for a new challenge? Then please send us a comprehensive application via Email to career@ep-m.de or by post.</p>
   conau:
     title: Automotive Consultant (m/f)
     desc: |
       <p>Our automotive team advises international companies in the automotive sector.</p>
-      <p>We support our clients in the introduction of new products, optimization of their production plants and the successful restructuring of entire sites. We are looking for competent individuals to strengthen our growing team.</p>
+      <p>We support our clients in the introduction of new products, optimization of their production operations and the successful restructuring of entire sites. We are looking for competent individuals to strengthen our growing team.</p>
       <p>You should have successfully completed a high-quality degree at a University or College in the fields of Economics and/or Technology. You are able to analyze complex processes in a structured manner and to prepare comprehensive results. Apart from the full Office suite, you should also have some experience in process- and error analysis. One of your focuses at university was logistics, quality management or process optimization. You have a very good knowledge of English and are confident. You are a team-player and have very high work quality standards with regards to your own work. </p>
-      <p>Have we sparked your interest? Then please send us a comprehensive application via Email to career@ep-m.de or via mail.</p>
+      <p>Have we sparked your interest? Then please send us a comprehensive application via Email to career@ep-m.de or by post.</p>
 
   conqua:
     title: Quality Consultant (m/f)
     desc: |
-      <p>EPM GmbH is a fast growing consulting firm specializing in production plants. Together with our clients, we analyse individual business sectors to find any weaknesses and if need be, to optimize them.</p>
-      <p>To support our teams, we are looking for a consultant with a focus in production quality. </p>
-      <p>You have a very good qualifications and have a good knowledge of English. You have successfully completed quality training and have obtained experience in quality optimization. You are familiar with the common quality assurance and analysis methods. You are flexible and able to travel. You are confident and are a team player.</p>
-      <p>Does this interest you? Then please send us a comprehensive application via Email to career@ep-m.de or via mail.</p>
+      <p>EPM GmbH is a fast growing consulting firm specializing in manufacturing operations. Together with our clients, we analyse individual business sectors to find any vulnerabilities and if need be, to optimize them.</p>
+      <p>To support our teams, we are looking for a consultant with a focus on production quality. </p>
+      <p>You have a very good training qualifications and have a very good knowledge of English. You have successfully completed quality training and have obtained experience in quality optimization. You are familiar with the common quality assurance and analysis methods. You are flexible and able to travel. You are confident and are a team player.</p>
+      <p>Have we sparked your interest? Then please send us a comprehensive application via Email to career@ep-m.de or by post.</p>
   conall:
     title: General Consultant (m/f)
     desc: |
-      <p>EPM GmbH is a fast growing consulting firm specializing in production plants. Together with our clients, we analyse individual business sectors to find any weaknesses and if need be, to optimize them.</p>
+      <p>EPM GmbH is a fast growing consulting firm specializing in manufacturing operations. Together with our clients, we analyse individual business sectors to find any vulnerabilities and if need be, to optimize them.</p>
       <p>We are looking for someone to support our team consultants (m/f) at all levels, from graduates to consultants with many years of professional experience. </p>
-      <p>You have very good qualifications and have a very good knowledge of English. You have good analytical skills and able to develop pragmatic concepts. You are of course flexible with respect to the site of operations. You are confident and a team player.</p>
-      <p>Have we sparked your interest? Then please send us a comprehensive application via Email to career@ep-m.de or via mail.</p>
+      <p>You have very good training qualifications and have a very good knowledge of English. You have good analytical skills and able to develop pragmatic concepts. You are of course flexible with respect to the site of operations. You are confident and a team player.</p>
+      <p>Have we sparked your interest? Then please send us a comprehensive application via Email to career@ep-m.de or by post.</p>
   projekt:
 
     title: Production project Manager (m/f)
     desc: |
-      <p>We support our clients in the introduction of new products, building of assembly lines, selection of supplier and corresponding quality audits. We are looking for a competent addition to our growing team. </p>
-      <p>You have experience in the automotive sector and in the management of large projects.  Keeping to project deadlines is just as important to you as the sustainability of the implementation.  You are assertive and can lead team members from various departments. You are able to grasp new concepts quickly and have a very good knowledge of English. You are flexible regarding location. </p>
-      <p>Haben wir Ihr Interesse geweckt? Dann schicken Sie uns bitte Ihre aussagekrÃ¤ftige Bewerbung per Email an career@ep-m.de oder per Post.</p>
+      <p>We support our clients in the introduction of new products, construction of assembly lines, selection of suppliers and corresponding quality audits. We are looking for a competent addition to our growing team. </p>
+      <p>You have experience in the automotive sector and in the management of large projects.  Adherence to project deadlines is just as important to you as the sustainability of the implementation.  You are assertive and can lead team members from various departments. You are able to grasp new concepts quickly and have a very good knowledge of English. You are flexible regarding location. </p>
+      <p>Have we sparked your interest? Then please send us a comprehensive application via Email to career@ep-m.de or by post.</p>
 
 # kontakt
 kontakt:
