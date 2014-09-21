@@ -69,7 +69,7 @@ $routes = array(
     'unternehmen' => array(
       'url' => array(
         'de' => '/unternehmen',
-        'en' => '/en/business'
+        'en' => '/en/company'
       ),
       'file' => 'unternehmen.php'
     )
