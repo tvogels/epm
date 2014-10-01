@@ -6296,6 +6296,28 @@ td.light {
 h4 {
   color: #798b91;
 }
+.dd-2-lines {
+  padding-top: .65em !important;
+  padding-bottom: .65em !important;
+}
+.disclaimer {
+  color: #ccc;
+  font-size: .8em;
+}
+.disclaimer a {
+  color: #ccc;
+}
+.disclaimer h3 {
+  font-size: .8em;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-bottom: 0;
+  margin-bottom: .5em;
+  margin-top: 1.4em;
+}
+.disclaimer p {
+  margin-bottom: .4em;
+}
 .epm-dl ul {
   margin: 0;
   padding: 0;

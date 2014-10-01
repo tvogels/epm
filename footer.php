@@ -6,13 +6,12 @@ function epm_footer() {
       <div class="container">
         <div class="row">
           <div class="col-sm-3">
-            <?php echo t('footer.address') ?>
-          </div>
-          <div class="col-sm-3">
-            <?php echo t('footer.leader') ?>
-          </div>
-          <div class="col-sm-3">
+            <?php echo t('footer.address') ?><br><br>
+            <?php echo t('footer.leader') ?><br><br>
             <?php echo t('footer.data') ?>
+          </div>
+          <div class="col-sm-9 disclaimer">
+            <?php echo t('footer.disclaimer') ?>
           </div>
         </div>
       </div>

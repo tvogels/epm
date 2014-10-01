@@ -8,33 +8,28 @@
             <dt class="col-sm-4">
               <strong><?php echo t('leistung.hrsupport.obman.label') ?></strong>
             </dt>
-            <dd class="col-sm-8">&nbsp;<br>
-              <ul class="dd-content">
+            <dd class="col-sm-8">
+              <ul class="dd-content dd-2-lines">
                 <?php echo t('leistung.hrsupport.obman.content') ?>
               </ul>
-              &nbsp;
             </dd>
           </div>
           <div class="row">
             <dt class="col-sm-4">
               <strong><?php echo t('leistung.hrsupport.mitman.label') ?></strong>
             </dt>
-            <dd class="col-sm-8">&nbsp;<br>
-              <ul class="dd-content">
-                <?php echo t('leistung.hrsupport.mitman.content') ?>
-              </ul>
-              &nbsp;
+            <dd class="col-sm-8">
+              <?php echo t('leistung.hrsupport.mitman.content') ?>
             </dd>
           </div>
           <div class="row">
             <dt class="col-sm-4">
               <strong><?php echo t('leistung.hrsupport.projekt.label') ?></strong>
             </dt>
-            <dd class="col-sm-8">&nbsp;<br>
-              <ul class="dd-content">
+            <dd class="col-sm-8">
+              <ul class="dd-content dd-2-lines">
                 <?php echo t('leistung.hrsupport.projekt.content') ?>
               </ul>
-              &nbsp;
             </dd>
           </div>
         </dl>
